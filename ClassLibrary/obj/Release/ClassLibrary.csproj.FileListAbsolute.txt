@@ -1,0 +1,6 @@
+D:\Documents HDD\UTN\Cuatrimestre 2\Laboratorio-Programacion 2\tp_laboratorio_2_cuatri2\Carruyo.Juan.2C.Parcial1\ClassLibrary\bin\Release\ClassLibrary.dll
+D:\Documents HDD\UTN\Cuatrimestre 2\Laboratorio-Programacion 2\tp_laboratorio_2_cuatri2\Carruyo.Juan.2C.Parcial1\ClassLibrary\bin\Release\ClassLibrary.pdb
+D:\Documents HDD\UTN\Cuatrimestre 2\Laboratorio-Programacion 2\tp_laboratorio_2_cuatri2\Carruyo.Juan.2C.Parcial1\ClassLibrary\obj\Release\ClassLibrary.csprojAssemblyReference.cache
+D:\Documents HDD\UTN\Cuatrimestre 2\Laboratorio-Programacion 2\tp_laboratorio_2_cuatri2\Carruyo.Juan.2C.Parcial1\ClassLibrary\obj\Release\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Documents HDD\UTN\Cuatrimestre 2\Laboratorio-Programacion 2\tp_laboratorio_2_cuatri2\Carruyo.Juan.2C.Parcial1\ClassLibrary\obj\Release\ClassLibrary.dll
+D:\Documents HDD\UTN\Cuatrimestre 2\Laboratorio-Programacion 2\tp_laboratorio_2_cuatri2\Carruyo.Juan.2C.Parcial1\ClassLibrary\obj\Release\ClassLibrary.pdb
